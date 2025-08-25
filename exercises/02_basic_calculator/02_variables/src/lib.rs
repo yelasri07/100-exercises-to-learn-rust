@@ -10,7 +10,6 @@ pub fn speed(start: u32, end: u32, time_elapsed: u32) -> u32 {
     //  Do you need to annotate the type of `distance`? Why or why not?
 
     // Don't change the line below
-    
     distance / time_elapsed
 }
 
